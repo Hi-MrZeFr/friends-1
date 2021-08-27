@@ -1,0 +1,18 @@
+## DearXuan的友链仓库
+请自行添加Issues,不要修改格式.
+您的网页将会被添加在[http://www.dearxuan.top/friends/](http://www.dearxuan.top/friends/)的“挚友”模块下.
+
+## 需知
+1.必须确保您已经将[http://www.dearxuan.top](http://www.dearxuan.top) 添加至您的友链.
+2.必须使用您自己的独立域名.
+3.您的网站必须以博客为主体,不接受游戏、电影、广告等非博客网页.但是博客中出现少量的游戏、电影、广告等内容是被允许的.
+4.必须保证您的网站在中国大陆可以直接访问.
+5.您的网站中不得出现任何违法中国大陆法律法规的内容.
+
+## Labels与对应解释
+active:网站正常展示
+suspend:未添加本站为友链
+update:信息不完善
+404:无法访问
+illegal:非个人博客或含有非法内容
+domain:非独立域名
