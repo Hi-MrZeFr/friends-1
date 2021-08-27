@@ -13,10 +13,10 @@ description:描述.<br/>
 推荐使用[去不图床](https://7bu.top/)来加速.<br/>
 
 ## 添加本站友链
-title: DearXuan
-url: http://www.dearxuan.top
-avatar: https://bu.dusays.com/2021/08/25/32f61f6ad6985.png
-screenshot: https://bu.dusays.com/2021/08/27/e4dc41c95f242.jpg
+title: DearXuan<br/>
+url: http://www.dearxuan.top<br/>
+avatar: https://bu.dusays.com/2021/08/25/32f61f6ad6985.png<br/>
+screenshot: https://bu.dusays.com/2021/08/27/e4dc41c95f242.jpg<br/>
 description: 编程,算法
 
 ## 需知
