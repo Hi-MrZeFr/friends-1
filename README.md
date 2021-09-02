@@ -1,6 +1,6 @@
 ## DearXuan的友链仓库
 请自行添加Issues,不要修改格式.<br/>
-贵站将会被添加在[http://www.dearxuan.top/friends](http://www.dearxuan.top/friends)的“挚友”模块下.<br/>
+贵站将会被添加在[https://www.dearxuan.top/friends](https://www.dearxuan.top/friends)的“挚友”模块下.<br/>
 如需修改网页,请直接修改Issues.<br/>
 
 ## 模板解释
@@ -14,13 +14,13 @@ description:描述.<br/>
 
 ## 添加本站友链
 title: DearXuan<br/>
-url: http://www.dearxuan.top<br/>
+url: https://www.dearxuan.top<br/>
 avatar: https://bu.dusays.com/2021/08/25/32f61f6ad6985.png<br/>
 screenshot: https://bu.dusays.com/2021/08/27/c0424b7eb583a.jpg<br/>
 description: 编程,算法
 
 ## 需知
-1.必须确保您已经将[http://www.dearxuan.top](http://www.dearxuan.top) 添加至贵站的友链.<br/>
+1.必须确保您已经将[https://www.dearxuan.top](https://www.dearxuan.top) 添加至贵站的友链.<br/>
 2.必须使用您自己的独立域名.<br/>
 3.只接受博客类网站.<br/>
 4.网站中不得出现任何违反中国大陆法律法规的内容.<br/>
