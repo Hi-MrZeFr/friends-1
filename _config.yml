@@ -5,6 +5,6 @@ request:
 
 # 要抓取的 issues 配置
 issues:
-  repo: DearXuan7392/friends
+  repo: SYSTEMWindows11/friends-1
   state: open
   label: active
